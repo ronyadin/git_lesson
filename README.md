@@ -19,3 +19,5 @@ git switch -c new_branch_name"
 to switch to an existing branch use
 
 "git switch branch_name"
+
+I added this from github
